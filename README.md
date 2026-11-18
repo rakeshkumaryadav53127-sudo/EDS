@@ -1,2 +1,2 @@
-# EDS
+settings.gradle
 DRONE 
